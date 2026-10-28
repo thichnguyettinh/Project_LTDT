@@ -1,4 +1,4 @@
-<img width="500" height="115" alt="image" src="https://github.com/user-attachments/assets/83d7e55d-0e8d-4236-95ae-ac0b00a393fb" /># Tìm Tuyến Xe Buýt - TP.HCM
+# Tìm Tuyến Xe Buýt - TP.HCM
 
 Ứng dụng web giúp người dùng tìm kiếm lộ trình xe buýt tối ưu nhất tại Thành phố Hồ Chí Minh.
 
